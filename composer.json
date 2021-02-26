@@ -1,0 +1,10 @@
+{
+	"description": "The CodeIgniter framework",
+	"name": "codeigniter/framework",
+	"type": "project",
+	"homepage": "https://codeigniter.com",
+	"license": "MIT",
+	"require": {
+		"google/cloud-dialogflow": "^0.17.4"
+	}
+}
